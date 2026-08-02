@@ -24,6 +24,17 @@
         "text",
         "image"
       ]
+    },
+    {
+      "id": "QWEN3_06B",
+      "minRamMb": 3072,
+      "fileSizeMb": 586,
+      "sha256": "555579ff2f4fd13379abe69c1c3ab5200f7338bc92471557f1d6614a6e5ab0b4",
+      "hfRepo": "litert-community/Qwen3-0.6B",
+      "fileName": "Qwen3-0.6B.litertlm",
+      "modalities": [
+        "text"
+      ]
     }
   ]
 }
